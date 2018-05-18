@@ -1,0 +1,27 @@
+
+]squid:S1126"AReplace this if-then-else statement by a single return statement.(‡Æ¢8ğ†ë·¥,
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(È”çé8äè·¥,
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ğì±µøÿÿÿÿ8äè·¥,
+;squid:S2097"Add a type test to this method.(ÜÑã8ÄÃÀ·¥,
+]squid:S1126"AReplace this if-then-else statement by a single return statement.(§¸¿á8ğ†ë·¥,
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¿»Ë’8äè·¥,
+msquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ç +8ğ†ë·¥,
+Ksquid:S1068"/Remove this unused "isProcessed" private field.(„Ä®8Ñ½²·¥,
+]squid:S1126"AReplace this if-then-else statement by a single return statement.(¾€•Ü8ğ†ë·¥,
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(•üÌâ8äè·¥,
+Isquid:S1068"-Remove this unused "maxLength" private field.(ƒ€İà8ıª·¥,
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(‘íÀ¨8ğ†ë·¥,
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÉ8ğ†ë·¥,
+Fsquid:S1068"*Remove this unused "length" private field.(éí«ğ8Ñ½²·¥,
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÌòÛ8äè·¥,
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ñÓğßúÿÿÿÿ8äè·¥,
+Asquid:S2157"%Add a "clone()" method to this class.(‰àÑ‰8Ï²Â·¥,
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 58 to the 15 allowed.(ñÓğßúÿÿÿÿ8äè·¥,
+Isquid:S1068".Remove this unused "routeCount" private field.(ñø¾68Ñ½²·¥,
+Psquid:EmptyStatementUsageCheck"Remove this empty statement.(ôŸìúÿÿÿÿ8äè·¥,
+lsquid:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã8ÄÃÀ·¥,
+Hsquid:S1068",Remove this unused "maxRoute" private field.(ìòÁ8ıª·¥,
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¿»Ë’8äè·¥,
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(È”çé8äè·¥,
+Psquid:EmptyStatementUsageCheck"Remove this empty statement.(ôŸìúÿÿÿÿ8äè·¥,
+|squid:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(¶ßÈ©ùÿÿÿÿ8äè·¥,

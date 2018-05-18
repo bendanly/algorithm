@@ -1,0 +1,41 @@
+
+asquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(»ÉœÂøÿÿÿÿ
+asquid:UselessImportCheck"?Remove this unused import 'com.sun.xml.internal.stream.Entity'.(®ßû²
+Ssquid:S1155">Use isEmpty() to check whether the collection is empty or not.( œˆÊ
+Isquid:S1066"/Merge this if statement with the enclosing one.(à®½Óıÿÿÿÿ
+Rsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(éÉ—0
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(«ˆœ®şÿÿÿÿ
+ %squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(™ö›­şÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(®Êîäıÿÿÿÿ
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(áøÑúúÿÿÿÿ
+asquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ğì±µøÿÿÿÿ
+_squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÀÊ
+Ssquid:S1155">Use isEmpty() to check whether the collection is empty or not.(ÉÜá
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(È”çé
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(È”çé
+asquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(™ö›­şÿÿÿÿ
+Jsquid:S1191"5Use classes from the Java API instead of Sun classes.(®ßû²
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¿»Ë’
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ò­¸ò
+Xsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(¼¸Èçøÿÿÿÿ
+Isquid:EmptyStatementUsageCheck"Remove this empty statement.(ôŸìúÿÿÿÿ
+Rsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(œËF
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ¾·¾şÿÿÿÿ
+Ssquid:S1155">Use isEmpty() to check whether the collection is empty or not.(ÉÜá
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ËÇışÿÿÿÿ
+Xsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(¼¸Èçøÿÿÿÿ
+Isquid:S1066"/Merge this if statement with the enclosing one.(ã‘ş…şÿÿÿÿ
+Ssquid:S1155">Use isEmpty() to check whether the collection is empty or not.(ÉÜá
+@squid:S1659"&Declare "tempList" on a separate line.(÷öÌãÿÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(È”çé
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(è©® ûÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(´”Ç
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 58 to the 15 allowed.(ñÓğßúÿÿÿÿ
+Wsquid:UselessImportCheck"0Remove this unused import 'java.util.Map.Entry'.(±şê¾úÿÿÿÿ
+usquid:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(¶ßÈ©ùÿÿÿÿ
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÌòÛ
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(•üÌâ
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(™ö›­şÿÿÿÿ
+msquid:S3776"SRefactor this method to reduce its Cognitive Complexity from 125 to the 15 allowed.(ÆØ Íÿÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦‚–æúÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÃÈûşûÿÿÿÿ

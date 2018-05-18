@@ -1,0 +1,5 @@
+
+hsquid:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+4squid:S2097"Add a type test to this method.(ÜÑã
+Esquid:S1948"+Make "routeList" transient or serializable.(ıš‘Şüÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(†õ´µ
